@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "395136751883",
+    "firebase_url": "https://smartattendace-1525602341455.firebaseio.com",
+    "project_id": "smartattendace-1525602341455",
+    "storage_bucket": "smartattendace-1525602341455.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395136751883:android:992b29d072c17fa4",
+        "android_client_info": {
+          "package_name": "hackathon518.bl.smartattendance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395136751883-sviu65fbsvic76oa59tuvl945jmfp143.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "395136751883-q15ljm7jibgv334kn3v4k9aeikm3fom0.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "395136751883-i59u0785ljju5q2solj99phdutv616gm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hackathon518.bl.smartattendance",
+            "certificate_hash": "f0901f5d1a370607da0d1d915eaa6045b598b42e"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6KuC_SJSnMr2B9U2gr-8EsBMau9f9sGY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395136751883-sviu65fbsvic76oa59tuvl945jmfp143.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
